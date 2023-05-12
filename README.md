@@ -1,2 +1,2 @@
 # Gitpracticev1
-Purely for git practice purpose
+This repository is for practice purpose 
