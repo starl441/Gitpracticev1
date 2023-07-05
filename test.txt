@@ -1,1 +1,2 @@
 This point is edited in github
+This point is edited in localhost point-0
